@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGyk2PwhTdBHj5gKpN37OER/kwIJ94I0tnDuaWbkUGocU18yjTl2bS3VoxpSHIB8zTMmg0Xm/HL8c3v12uWScg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\WebApiTest\\DockerNetExample\\DockerNetExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nfinch\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nfinch\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nfinch\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nfinch\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nfinch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nfinch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
